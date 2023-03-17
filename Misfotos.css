@@ -1,0 +1,397 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+#d0{
+	width: 100%;
+	height:4%;
+}
+#l1 li{
+	display: inline-block;
+	margin: auto;
+	padding: 0 3% 0 3%;
+	height: 4%;
+	width:26%;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Shantell Sans', cursive;
+	float:left;
+	color: #B63DFF;
+}
+#l2 li{
+	display: inline-block;
+	margin: auto;
+	padding: 0 3% 0 3%;
+	height: 4%;
+	width:26%;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Shantell Sans', cursive;
+	float:left;
+	color: #507CEB;
+}
+#l3 li{
+	display: inline-block;
+	margin: auto;
+	padding: 0 3% 0 3%;
+	height: 4%;
+	width:26%;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Shantell Sans', cursive;
+	float:left;
+	color: #48F7D9;
+}
+#d1{
+	width: 70%;
+	height:12%;
+	margin-left:13%;
+	margin-right:13%;
+}
+#d1 p{
+	font-size:25px; 
+	font-family:'Sono', sans-serif; 
+	text-align:center;
+}
+#d2{
+	width: 35%;
+	height:388px;
+	border-radius: 30px;
+	background-color: #B63DFF;
+	margin-left: 2.5%;
+	margin-top: 20px;
+	float:left;
+}
+#d2 img{
+	width: 32.5%;
+	border-radius: 30px;
+}
+#d3{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #563DD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d3 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d4{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #507CEB;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d4 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d5{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #3DAAD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d5 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d6{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #48F7D9;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d6 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d7{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #B63DFF;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d7 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d8{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #563DD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d8 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d9{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #507CEB;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d9 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d10{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color:#3DAAD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d10 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d11{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #48F7D9;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d11 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d12{
+	width: 500px;
+	height:388px;
+	border-radius: 30px;
+	background-color: #B63DFF;
+	margin-right: 36px;
+	margin-top: 20px;
+	float:right;
+	position: relative;
+}
+#d12 img{
+	width: 32.5%;
+	border-radius: 30px;
+}
+#d13{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color:  #563DD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d13 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d14{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #507CEB;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d14 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d15{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #3DAAD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d15 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d16{
+	width: 500px;
+	height:388px;
+	border-radius: 30px;
+	background-color: #48F7D9;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d16 img{
+	width: 32.5%;
+	border-radius: 30px;
+}
+#d17{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #B63DFF;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d17 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d18{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #563DD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d18 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d19{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #507CEB;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d19 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d20{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #3DAAD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d20 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d21{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #48F7D9;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d21 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d22{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #B63DFF;
+	margin-left: 36px;
+	margin-top: 20px;
+	float:left;
+}
+#d22 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d23{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #563DD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	float:left;
+}
+#d23 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d24{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #507CEB;
+	margin-left: 36px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	float:left;
+}
+#d24 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d25{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #3DAAD4;
+	margin-left: 36px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	float:left;
+}
+#d25 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d26{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #48F7D9;
+	margin-left: 36px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	float:left;
+}
+#d26 img{
+	width: 224px;
+	border-radius: 30px;
+}
+#d27{
+	width: 240px;
+	height:184px;
+	border-radius: 30px;
+	background-color: #B63DFF;
+	margin-left: 36px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	float:left;
+}
+#d27 img{
+	width: 224px;
+	border-radius: 30px;
+}
